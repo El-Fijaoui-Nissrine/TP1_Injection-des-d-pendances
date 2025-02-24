@@ -3,8 +3,8 @@
 1. Static instantiation
 2. Dynamic instantiation
 3. Using the Spring Framework:  
- 3.1. XML Configuration  
- 3.2.  Annotations
+ 3.1. XML   
+ 3.2. Annotations
  ## Project Structure
  ![Project Structure](./.idea/strctPrj.png)
  ## 1. IDao Interface
@@ -120,7 +120,7 @@ public class prestV4 {
 }
 ```
 ## Example Run
-version 1 :version base de données :   
-![version1 run ](./.idea/vrs1.png)
-version 2 :version web service :  
+**version 1 :database version :**     
+![version1 run ](./.idea/vrs1.png)  
+**version 2 :web service version :**    
 ![version1 run ](./.idea/vrs2.png)
